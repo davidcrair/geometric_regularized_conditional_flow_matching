@@ -1,0 +1,28 @@
+[project]
+name = "final-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anndata>=0.12.3",
+    "dask[array,diagnostics,distributed]>=2025.10.0",
+    "gcsfs>=2025.9.0",
+    "huggingface-hub>=0.35.3",
+    "ipykernel>=7.0.1",
+    "ipywidgets>=8.1.7",
+    "mudata>0.2.3",
+    "nbformat>=5.10.4",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "phate>=1.0.11",
+    "plotext>=5.3.2",
+    "plotly>=6.3.1",
+    "pot>=0.9.6.post1",
+    "pyarrow>=21.0.0",
+    "scanpy>=1.11.5",
+    "scvi-tools>=1.4.1",
+    "torch>=2.9.0",
+    "torchdiffeq>=0.2.5",
+    "tqdm>=4.67.1",
+]
