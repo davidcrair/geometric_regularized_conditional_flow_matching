@@ -1,7 +1,5 @@
 # Geometric Regularized Autoencoder for Conditional Flow Matching
 
-Author: David Crair
-
 This repo contains the implementation of a Geometric Regularized Autoencoder for Conditional Flow Matching, as described in our paper.
 
 ## Repository Structure
